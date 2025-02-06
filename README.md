@@ -1,8 +1,19 @@
-# React + Vite
+# [ ✍ To Do List ](https://davidfrontenddev.github.io/ToDoList/)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- To do list realizado con React , se puede agregar tareas , completarlas , eliminarlas y filtrar por tareas completadas o sin completar + full responsive.
 
-Currently, two official plugins are available:
+# Pseudocodigo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Imagen](https://i.imgur.com/4VBhon4.png)
+
+# Escritorio
+
+[![Imagen](https://i.imgur.com/utS42or.png)](https://davidfrontenddev.github.io/todo-list-react/)
+
+# Tablet
+
+[![Imagen](https://i.imgur.com/QvEzvV1.png)](https://davidfrontenddev.github.io/todo-list-react/)
+
+# Movil
+
+[![Imagen](https://i.imgur.com/Uv49dhm.png)](https://davidfrontenddev.github.io/todo-list-react/)
