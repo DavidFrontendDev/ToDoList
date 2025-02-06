@@ -8,12 +8,12 @@
 
 # Escritorio
 
-[![Imagen](https://i.imgur.com/utS42or.png)](https://davidfrontenddev.github.io/todo-list-react/)
+[![Imagen](https://i.imgur.com/utS42or.png)](https://davidfrontenddev.github.io/ToDoList/)
 
 # Tablet
 
-[![Imagen](https://i.imgur.com/QvEzvV1.png)](https://davidfrontenddev.github.io/todo-list-react/)
+[![Imagen](https://i.imgur.com/QvEzvV1.png)](https://davidfrontenddev.github.io/ToDoList/)
 
 # Movil
 
-[![Imagen](https://i.imgur.com/Uv49dhm.png)](https://davidfrontenddev.github.io/todo-list-react/)
+[![Imagen](https://i.imgur.com/Uv49dhm.png)](https://davidfrontenddev.github.io/ToDoList/)
