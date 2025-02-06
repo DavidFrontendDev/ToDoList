@@ -1,0 +1,39 @@
+.td-card {
+  background-color: #131313;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  padding: 15px;
+  border-radius: 9px;
+  box-shadow: 0px 0px 8px rgb(56, 56, 56);
+  transition: all 0.3s ease-in-out;
+}
+.td-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0px 0px 8px rgb(97, 95, 95);
+}
+.td-card-button {
+  padding: 8px;
+  border-radius: 9px;
+  background-color: darkgrey;
+  box-shadow: 0px 0px 8px rgb(148, 146, 146);
+  border: none;
+  cursor: pointer;
+}
+.td-card-button-terminada {
+  background-color: rgb(128, 19, 0);
+  box-shadow: 0px 0px 8px rgb(43, 2, 2);
+  padding: 8px;
+  border-radius: 9px;
+  border: none;
+  cursor: pointer;
+}
+.td-card-button-completada {
+  background-color: rgb(7, 148, 54);
+  box-shadow: 0px 0px 8px rgb(221, 201, 201);
+  padding: 8px;
+  border-radius: 9px;
+  border: none;
+  cursor: pointer;
+}
